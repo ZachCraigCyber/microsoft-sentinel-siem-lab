@@ -1,7 +1,7 @@
 <h1>Microsoft Sentinel SIEM Analysis</h1>
 
 <h2>Description</h2>
-In this project, I built a cloud-based SIEM lab using Microsoft Sentinel in Azure and connected it to a publicly exposed Windows virtual machine configured as a honeypot. The system attracted real-world RDP brute force attacks, allowing me to collect and analyze live security data. I used Log Analytics Workspace to investigate failed login attempts and identify attack patterns, including source IPs and frequency. Additionally, I developed a custom PowerShell script to pair attacker IP data with geolocation information and visualized it on a global map within Sentinel. This project provided hands-on experience with SIEM deployment, log analysis, and real-time threat monitoring in a simulated environment.
+In this project, I built a cloud-based SIEM lab in Microsoft Azure using Microsoft Sentinel and connected it to a publicly exposed Windows virtual machine configured as a honeypot. This setup attracted real-world RDP brute force attacks, allowing me to collect and analyze live security data. I used Log Analytics Workspace to investigate failed login attempts and identify patterns such as source IPs and attack frequency. I also added geolocation details to the attacker data and visualized activity on a global map within Sentinel. This project gave me hands-on experience with SIEM deployment, log analysis, and monitoring real-time threats in a simulated environment.
 
 <h2>Languages Used</h2>
 
