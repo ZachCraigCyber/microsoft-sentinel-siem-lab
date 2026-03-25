@@ -32,6 +32,10 @@ Deploy Mirosoft Defender for Cloud to Monitor the Environment for Security Risks
 <img width="2554" height="1256" alt="Microsoft Defender for Cloud" src="https://github.com/user-attachments/assets/74e4eb18-7fd5-498f-9a3a-95881e479400" />
 KQL Query to Search for Failed Login Attempts: <br/>
 <img width="2559" height="1342" alt="Log Analytics workspace KQL query" src="https://github.com/user-attachments/assets/d8b0f09f-a22e-4dac-ac2f-ed9cab2ad246" />
+Deploy Microsoft Sentinel with a Watchlist to Analyze Logs and Store GeoIP Data: <br/>
+<img width="2559" height="1250" alt="Microsoft Sentinel Watchlist" src="https://github.com/user-attachments/assets/f1c2907f-ba23-4270-a749-db6458b122e8" />
+<img width="2553" height="1251" alt="watchlost geoip query" src="https://github.com/user-attachments/assets/c2139dda-d3ae-4bdc-9352-dcfff2f3c41b" />
+<img width="2558" height="1254" alt="kql watclist on one ip" src="https://github.com/user-attachments/assets/33b01e0d-bcc1-457b-851b-7dacae4deada" />
 Windows Virtual Machine Attack Map: </br/>
 <img width="2558" height="1249" alt="Windows Vm attack map" src="https://github.com/user-attachments/assets/4d0ad4b5-4f3b-4a1e-a91a-ec321e7a9aea" />
 
