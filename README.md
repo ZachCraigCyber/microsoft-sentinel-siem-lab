@@ -20,13 +20,20 @@ In this project, I built a cloud-based SIEM lab using Microsoft Sentinel in Azur
 <h2>Lab walk-through:</h2>
 
 <p align="center">
+Create Resource Group to Organize all Components such as the VM, Network Settings, and Sentinel Workspace: <br/>
+<img width="2559" height="1251" alt="resource group" src="https://github.com/user-attachments/assets/5a2636cc-2555-43e8-8aab-374ad4894124" />
 Create a Virtual Machine and Set Rules to Allow All Traffic: <br/>
 <img width="2557" height="1252" alt="VM rules to allow all traffic" src="https://github.com/user-attachments/assets/adf6fa4d-1eac-4d67-b90c-9756f0e2c70c" />
 Run Virtual Machine and Disable All Windows Firewall Settings: <br/>
 <img width="1273" height="1392" alt="Windows firewall settings off vm" src="https://github.com/user-attachments/assets/06222b84-779e-4c55-a60d-9ab206bda8a1" />
-Deploy a Log Analytics Workspace to Collect and Store Log Data From VM
+Deploy a Log Analytics Workspace to Collect and Store Log Data From VM: <br/>
 <img width="2558" height="1248" alt="Log analytics workspace" src="https://github.com/user-attachments/assets/d8abde58-ef44-4cfe-bc8d-405451ff60b8" />
-
+Deploy Mirosoft Defender for Cloud to Monitor the Environment for Security Risks and Misconfigurations: <br/>
+<img width="2554" height="1256" alt="Microsoft Defender for Cloud" src="https://github.com/user-attachments/assets/74e4eb18-7fd5-498f-9a3a-95881e479400" />
+KQL Query to Search for Failed Login Attempts: <br/>
+<img width="2559" height="1342" alt="Log Analytics workspace KQL query" src="https://github.com/user-attachments/assets/d8b0f09f-a22e-4dac-ac2f-ed9cab2ad246" />
+Windows Virtual Machine Attack Map: </br/>
+<img width="2558" height="1249" alt="Windows Vm attack map" src="https://github.com/user-attachments/assets/4d0ad4b5-4f3b-4a1e-a91a-ec321e7a9aea" />
 
 
 
