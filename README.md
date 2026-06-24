@@ -9,13 +9,13 @@ In this project, I built a cloud-based SIEM lab in Microsoft Azure using Microso
 
 <h2>Environments Used:</h2>
 
-- <b>Windows (Windows Server 2025 Datacenter):</b>
-- <b>Microsoft Azure:</b>
-- <b>Log Analytics Workspace:</b>
-- <b>Microsoft Sentinel:</b>
-- <b>Resourc Groups:</b>
-- <b>Microsoft Defender for Cloud:</b>
-- <b>Virtual Machines:</b>
+- <b>Windows (Windows Server 2025 Datacenter)</b>
+- <b>Microsoft Azure</b>
+- <b>Log Analytics Workspace</b>
+- <b>Microsoft Sentinel</b>
+- <b>Resourc Groups</b>
+- <b>Microsoft Defender for Cloud</b>
+- <b>Virtual Machines</b>
 
 <h2>Lab walk-through:</h2>
 
